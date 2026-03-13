@@ -8,8 +8,8 @@
   "devDependencies": {},
   "workspaces": [
     "./std",
-    "./orm",
-    "./temper-core"
+    "./temper-core",
+    "./orm"
   ],
   "private": true
 }
